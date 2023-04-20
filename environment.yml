@@ -1,0 +1,12 @@
+# To run: conda env create -f environment.yml
+name: 3RARF
+channels:
+    - pytorch
+    - defaults
+dependencies:
+    - python=3.8
+    - pip
+
+    - pytorch=1.11.0
+    - torchvision>=0.9.1
+    - cudatoolkit
