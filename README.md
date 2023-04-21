@@ -7,7 +7,7 @@ This repo is implementation for 3D Object Reconstruction from Volumetric Radianc
 -  ShapeNet unseen
 -  Pix3D
 
-These dataset downlaod form [here](https://drive.google.com/drive/folders/1Q2Kos5r9WSSh-N8QO1FNaDf8sZCNB3kR?usp=share_link "here")
+[Google Driver](https://drive.google.com/drive/folders/1Q2Kos5r9WSSh-N8QO1FNaDf8sZCNB3kR?usp=share_link "here")
 
 ## Installation
 ```bash
